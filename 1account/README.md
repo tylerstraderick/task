@@ -1,6 +1,6 @@
 ### Tasks
 
-The task asked to use minimal third part libraries so I didn't use any (kind of a lie, I used Mockito for testing, woops). I opted to use te Bing API to make the Bing search (Sorry!).
+The task asked to use minimal third part libraries so I didn't use any (kind of a lie, I used Mockito for testing). I opted to use the Bing API to make the Bing search (Sorry!).
 Task 1 in particular would have been more straightforward by using a JSON library, which would have been less work to get the url's.
 I ended up moving on from step 3, as when I was trying to get the URL's for the libraries used, I would get a lot of dud data (sites hosting their own js files etc.).
 Given more time, I feel as though I could have created a solid solution to get this task done. I felt my remainder time was better spent on the next task.
